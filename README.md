@@ -28,7 +28,7 @@ Python · Semgrep · Bandit · OWASP ZAP · Wazuh · Wireshark · Docker · GitH
 
 ## Learning
 
-TryHackMe learning paths · Root-Me (network analysis and forensics) · CTF events · HackTheBox
+TryHackMe learning paths · Root-Me (network analysis and forensics) · CTF events · Hack The Box
 
 ## Contact
 
