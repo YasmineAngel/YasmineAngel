@@ -13,12 +13,14 @@ Cybersecurity Master's student at **Université de Lille**. I find vulnerabiliti
 | [appsec-sast-wrapper](https://github.com/YasmineAngel/appsec-sast-wrapper) | Python CLI that runs Semgrep and Bandit and maps findings to the OWASP Top 10:2025. 48 tests. |
 | [appsec-ci-security-pipeline](https://github.com/YasmineAngel/appsec-ci-security-pipeline) | GitHub Actions pipeline that blocks merges on high-severity findings. |
 | [wazuh-ssh-bruteforce-lab](https://github.com/YasmineAngel/wazuh-ssh-bruteforce-lab) | Wazuh SIEM lab: SSH brute-force attack detected (MITRE ATT&CK T1110), incident report, automated blocking. |
-| [Gallinac](https://github.com/YasmineAngel/Gallinac) | Linked-list library proved correct in the Rocq Prover (separation logic). |
+| [iot-prids-research](https://github.com/YasmineAngel/iot-prids-research) | Master's research: reimplementation of IoT-PRIDS, a lightweight non-ML intrusion detection system for IoT, with experiments on weighted distance metrics. |
+
 
 ## Also
 
 - [WeLearn](https://github.com/YasmineAngel/PJF): full-stack e-learning platform I co-founded (Next.js, Prisma, PostgreSQL).
 - [TweetClassifier](https://tweet-classifier-two.vercel.app): tweet sentiment web app (live demo).
+- [Gallinac](https://github.com/YasmineAngel/Gallinac): Linked-list library proved correct in the Rocq Prover (separation logic).
 
 ## Toolbox
 
